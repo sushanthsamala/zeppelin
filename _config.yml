@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GDG DevFest Season 2014"
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
+baseurl: ""
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -56,8 +56,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
+heroTitle: "International Conference on Global Tourism"
+eventDate: "16th - 18th October, 2025"
 typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Season"
 heroButtons:
