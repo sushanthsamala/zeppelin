@@ -82,6 +82,8 @@ statisticBlock:
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ callForPapersTitle: "Call For Papers"
+ callForPapersDescription: "We invite original, unpublished research papers and case studies from Professors, Academicians, Industry Professionals, Tourism Practitioners, Research Scholars, Doctoral Candidates, Government Tourism Officials, Policy-makers, NGOs, Tourism Development Institutions, International Organizations and Think Tanks."
 
 
 # Rockstar Speakers Block
