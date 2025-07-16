@@ -67,13 +67,13 @@ heroButtons:
 # About Block
 aboutTitle: "About The Global Tourism Conference"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "
+ - {title: "Event Highlights", image: "", text: "
  • Plenary lectures by eminent International/National experts<br>
  • Keynote addresses and invited talks<br>
  • Paper presentations<br>
  • Awards for Best papers a n d posters<br>
  • Publication in Scopus, Elseveir, UGC care, Peer-reviewed Journal and ISBN Books." }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Target Participants", image: "", text: "Professors, Faculty, Post Doctoral Fellows, Researchers, Academicians, Industry Professionals, Policy Makers, practitioners and students engaged in Commerce a n d allied disciplines." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
