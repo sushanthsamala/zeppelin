@@ -69,9 +69,9 @@ aboutTitle: "About The Global Tourism Conference"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "
  • Plenary lectures by eminent International/National experts<br>
- • Keynote addresses a n d invited talks
- • Paper presentations
- • Awards for Best papers a n d posters
+ • Keynote addresses and invited talks<br>
+ • Paper presentations<br>
+ • Awards for Best papers a n d posters<br>
  • Publication in Scopus, Elseveir, UGC care, Peer-reviewed Journal and ISBN Books." }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 
